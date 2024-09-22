@@ -1,3 +1,4 @@
 nginx
 cr2.fit2cloud.com/1panel/maxkb
 xhofe/alist
+mysql
