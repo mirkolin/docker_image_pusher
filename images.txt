@@ -9,3 +9,4 @@ linuxserver/jackett
 linuxserver/qbittorrent
 allanpk716/chinesesubfinder
 diluka/nas-tools:2.9.1
+ChineseSubFinder/ChineseSubFinder:latest-lite
