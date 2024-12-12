@@ -13,3 +13,4 @@ allanpk716/chinesesubfinder:latest-lite
 python
 snowdreamtech/frpc
 estrellaxd/auto_bangumi
+fooololo/aipan-netdisk-search
