@@ -18,3 +18,4 @@ homeassistant/home-assistant
 bellamy/wallos
 oldiy/aria2-ui-ng
 b3log/siyuan
+hectorqin/reader
