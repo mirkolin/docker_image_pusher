@@ -21,3 +21,4 @@ b3log/siyuan
 hectorqin/reader
 guovern/iptv-api:lite
 youshandefeiyang/allinone
+hslr/sun-panel:latest
