@@ -22,4 +22,4 @@ hectorqin/reader
 guovern/iptv-api:lite
 youshandefeiyang/allinone
 hslr/sun-panel:latest
-trddysun/kms
+teddysun/kms
