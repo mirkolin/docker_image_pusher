@@ -6,3 +6,4 @@ guovern/iptv-api:latest
 akimio/autofilm
 xhofe/alist:latest
 talebook/talebook
+gitea/gitea
