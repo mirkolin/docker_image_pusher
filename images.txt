@@ -1,4 +1,3 @@
-cloudflare/cloudflared:latest
 mysql:5.7
 privoce/vocechat-server
 mysql:8.0.42
