@@ -6,3 +6,4 @@ akimio/autofilm
 xhofe/alist:latest
 talebook/talebook
 gitea/gitea
+docker.1ms.run/dreamacro/clash
