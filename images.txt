@@ -1,9 +1,1 @@
-mysql:5.7
-privoce/vocechat-server
-mysql:8.0.42
-guovern/iptv-api:latest
-akimio/autofilm
-xhofe/alist:latest
-talebook/talebook
-gitea/gitea
-dreamacro/clash:latest
+1panel/openresty:1.21.4.3-3-3-focal
