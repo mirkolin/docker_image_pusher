@@ -1,1 +1,1 @@
-excalidraw/excalidraw:latest
+halohub/halo-pro:2.20.19
